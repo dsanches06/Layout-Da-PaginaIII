@@ -59,7 +59,8 @@ body {
 }
 
     .navbar .container-fluid {
-        background-color: cornflowerblue; /*mudei*/
+         color:#fff !important;
+         background-color:#20295b !important
     }
 
 .navbar-nav li a {
@@ -70,6 +71,7 @@ body {
         color: black !important;
     }
 
+   
 #conteudo {
     margin: 0 13px;
     margin-top: -15px;

@@ -9,5 +9,6 @@
     },
     "args": [
         "http://localhost:8081/"
-    ]
+    ],
+    "problemMatchers": []
 }
